@@ -1,0 +1,30 @@
+.title {
+    padding-bottom: 30px;
+    margin-bottom: 20px;
+}
+
+.item {
+    border: 1px solid gray;
+}
+
+.image {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 80%;
+    height: 400px;
+}
+
+.info {
+    padding: 10px;
+}
+
+.info h2 {
+    margin-bottom: 5px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+}
+
+.info p {
+    margin-bottom: 10px;
+}
